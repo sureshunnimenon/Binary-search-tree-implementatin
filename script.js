@@ -68,7 +68,8 @@ myTree.insert(80);
 myTree.insert(23);
 
 //console.log(myTree.getRootNode());
-console.log(myTree.findMinNode());
+console.log(myTree.findMinNode(myTree.getRootNode()));
+
 
 
 
